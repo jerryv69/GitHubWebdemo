@@ -1,0 +1,12 @@
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\deafult.aspx
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\t.aspx
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\deafult.aspx.cs
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\deafult.aspx.designer.cs
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\t.aspx.cs
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\t.aspx.designer.cs
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\ASPNET.dll.config
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\ASPNET.dll
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\ASPNET.pdb
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\obj\Debug\ASPNET.csprojResolveAssemblyReference.cache
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\obj\Debug\ASPNET.dll
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\obj\Debug\ASPNET.pdb
