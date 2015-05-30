@@ -10,3 +10,6 @@ F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\ASPNET.pdb
 F:\Dev\GitHubWebdemo\ASPNET\ASPNET\obj\Debug\ASPNET.csprojResolveAssemblyReference.cache
 F:\Dev\GitHubWebdemo\ASPNET\ASPNET\obj\Debug\ASPNET.dll
 F:\Dev\GitHubWebdemo\ASPNET\ASPNET\obj\Debug\ASPNET.pdb
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\Web.config
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\Web.Debug.config
+F:\Dev\GitHubWebdemo\ASPNET\ASPNET\bin\Web.Release.config
